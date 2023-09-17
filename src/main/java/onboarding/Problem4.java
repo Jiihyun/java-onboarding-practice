@@ -16,7 +16,7 @@ public class Problem4 {
                     int i1 = 'Z' - currentChar + 'A';
                     sb.append((char) i1);
                 }else if (Character.isLowerCase(currentChar)) { // 소문자인 경우
-                    int shiftedValue = 'Z' - currentChar + 'a';
+                    int shiftedValue = 'z' - currentChar + 'a';
                     sb.append((char) shiftedValue);
                 }
             } else {

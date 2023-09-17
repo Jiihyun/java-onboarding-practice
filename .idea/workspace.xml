@@ -11,20 +11,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/onboarding/Problem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/onboarding/Problem3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/onboarding.ApplicationTest$Problem2Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/onboarding/Problem4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/onboarding/Problem4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/onboarding.ApplicationTest$Problem3Test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/onboarding.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/onboarding.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-onboarding.ApplicationTest$Problem2Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-onboarding.ApplicationTest$Problem3Test.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/onboarding/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onboarding/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/onboarding/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onboarding/Problem4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +93,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem4">
+  <component name="RunManager" selected="Application.Problem5">
     <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="onboarding.Problem3" />
       <module name="java-onboarding.main" />
@@ -124,29 +120,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;onboarding.ApplicationTest$Problem2Test&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
+    <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onboarding.Problem5" />
+      <module name="java-onboarding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onboarding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Problem3Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -172,7 +157,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="Problem3Test.case1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Problem4Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -185,7 +170,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;onboarding.ApplicationTest$Problem3Test.case1&quot;" />
+            <option value="&quot;onboarding.ApplicationTest$Problem4Test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -211,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem5" />
+        <item itemvalue="Gradle.Problem4Test" />
         <item itemvalue="Application.Problem4" />
         <item itemvalue="Gradle.Problem3Test" />
         <item itemvalue="Application.Problem3" />
-        <item itemvalue="Gradle.Problem3Test.case1" />
-        <item itemvalue="Gradle.Problem2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +222,10 @@
       <workItem from="1693906606992" duration="267000" />
       <workItem from="1693926172995" duration="107000" />
       <workItem from="1694567300766" duration="6056000" />
-      <workItem from="1694578367417" duration="5187000" />
+      <workItem from="1694578367417" duration="5299000" />
+      <workItem from="1694585264084" duration="60000" />
+      <workItem from="1694855879528" duration="98000" />
+      <workItem from="1694960582691" duration="1092000" />
     </task>
     <servers />
   </component>
