@@ -212,7 +212,7 @@
       <workItem from="1694855879528" duration="98000" />
       <workItem from="1694960582691" duration="2746000" />
       <workItem from="1695035020538" duration="211000" />
-      <workItem from="1695047166444" duration="1002000" />
+      <workItem from="1695047166444" duration="10311000" />
     </task>
     <servers />
   </component>
@@ -230,6 +230,14 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/onboarding/Problem6.java</url>
+          <line>38</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
