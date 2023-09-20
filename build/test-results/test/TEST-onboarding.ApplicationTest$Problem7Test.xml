@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="onboarding.ApplicationTest$Problem7Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-20T15:30:43" hostname="jihyunMac.local" time="0.054">
+  <properties/>
+  <testcase name="case1()" classname="onboarding.ApplicationTest$Problem7Test" time="0.054"/>
+  <system-out><![CDATA[collect = [shakevan=1, donut=1, bedi=3, andole=20, jun=20]
+answer = [andole, jun, bedi]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
